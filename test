@@ -1,14 +1,14 @@
 [
 {
   "Name": "John Smith",
-  "Formula": "john@example.com"
-  "Molwt": "232"
+  "Formula": "john@example.com",
+  "Molwt": "232",
   "No": "1"
 },
 {
 "Name": "John Smith",
-  "Formula": "john@example.com"
-  "Molwt": "232"
+  "Formula": "john@example.com",
+  "Molwt": "232",
   "No": "1"
 }
 ]
